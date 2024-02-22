@@ -1,5 +1,8 @@
 html {
+  scroll-behavior: smooth;
 }
 body {
-  background-image: url('/assets/images/cat.jpeg');
+  background-image: url('../../assets/images/cat.jpeg');
+  background-color: #111;
+  font-family: sans-serif;
 }
